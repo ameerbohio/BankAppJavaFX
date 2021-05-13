@@ -1,0 +1,2 @@
+Run Project.Java to run application, log in as manager with username and password as "admin" for both.
+Add customers as manager, customers may now log in with the information the manager has inputted.
